@@ -2,7 +2,14 @@
 
 ### **INTRODUCTION**
 
-#### To contribute to the success of a business by utilizing data analysis techniques, specifically focusing on time series analysis, to provide valuable insights and accurate sales forecasting![image](https://github.com/Rushikesh-Kharat/Superstore_Sales_Analysis/assets/99657888/592eb48e-0fc5-49ef-99d6-e2ffc9a1352c)
+#### The Objective of this project is to contribute to the success of a Superstore sales business by utilizing data analysis techniques, specifically focusing on time series analysis, to provide valuable insights and accurate sales forecasting.
+
+The objective can be broken down into the following detailed components:
+Dashboard Creation: Identify the KPIs, design an intuitive and visually appealing dashboard, add interactive visualizations and filtering capabilities to allow users to explore the data at various levels of granularity
+Data Analysis: Provide valuable insights to business entities regarding the effectiveness of their sales strategies through visualisations and charts
+Sales Forecasting: Leverage historic data and apply time series analysis to generate sales forecast for next 15 days
+Actionable Insights and Recommendations: end goal is to provide insights and actionable information that can drive strategic decisions and support the supermarkets goals for growth, efficiency and satisfaction
+
 
 
 
@@ -13,7 +20,7 @@
 
 | Files/Folder | Description |
 | -----------  | ----------- |
-| CSV Files       | This folder contains csv data files          |
+| Dataset Files       | This folder contains csv and excel dataset files          |
 | PowerBI file | This folder contains PowerBI Dashboard File   |
 | Presentation | This is a powerpoint presentation file that contains all major insights and conclusion |
 
