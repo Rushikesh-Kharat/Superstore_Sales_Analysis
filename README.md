@@ -61,6 +61,9 @@
 
 ![image](https://github.com/Rushikesh-Kharat/Superstore_Sales_Analysis/assets/99657888/d9822fd8-6e5d-4ace-bbf0-b0ada912efe8)
 
+<br />
+  
+![image](https://github.com/Rushikesh-Kharat/Superstore_Sales_Analysis/assets/99657888/26bc9102-a5f6-4347-a590-28e0e7f91648)
 
 
 <br />
