@@ -42,33 +42,32 @@
 <br />
 
 
-1. PowerBI Desktop
-2. Power Query for Transformation and Cleaning of data.
-
-<br />
- 
-### **SCHEMA**
-
-![image](https://github.com/Rushikesh-Kharat/Sales-Dashboard-on-PowerBI/assets/99657888/b9493ff8-a9c3-4b79-80d8-76f9c91cebaa)
+![image](https://github.com/Rushikesh-Kharat/Superstore_Sales_Analysis/assets/99657888/b1606fbb-b81d-4751-99c0-c7d1b013a0ef)
 
 
 <br />
  
-### **SALES DASHBOARD**
 
-![image](https://github.com/Rushikesh-Kharat/Sales-Dashboard-on-PowerBI/assets/99657888/b8f8ed37-8c32-4294-b676-0a060d5ab5a7)
+### **DASHBOARD**
+
+![image](https://github.com/Rushikesh-Kharat/Superstore_Sales_Analysis/assets/99657888/7422fc6d-f2ba-4a23-aed9-e9028b54ebd6)
+
 
 <br />
- 
+
+### **SALES FORCASTING**
+
+![image](https://github.com/Rushikesh-Kharat/Superstore_Sales_Analysis/assets/99657888/d9822fd8-6e5d-4ace-bbf0-b0ada912efe8)
+
+
+
+<br />
+  
 ### **CONCLUSION**
 
 <br />
 
 
-1. Sale is highest in *Maharashtra State* and lowest in *Delhi* w.r.t. Amount.
-2. Customer named *Harivansh* has spend highest amount on shopping from Madhav Store.
-3. *Cash on delivery* is the most used Payment method
-4. The *Printers* Sub-Category has earned highest Profit.
 
 ### **CHALLENGES FACED AND MEASURES TAKEN**
 
@@ -80,7 +79,11 @@ Cleaning the data was an essential step to ensure the accuracy and reliability o
 
 - **Inconsistent Data**: Handling inconsistencies and errors in the data, such as typos and formatting issues.
 
-2. **Visualization Design**: Designing visually appealing and informative dashboards requires careful consideration. Choosing the right charts, graphs, and visuals to represent your sales data effectively can be a challenge.
+- **Visualization Design**: Designing visually appealing and informative dashboards requires careful consideration. Choosing the right charts, graphs, and visuals to represent your sales data effectively can be a challenge.
+  
+![image](https://github.com/Rushikesh-Kharat/Superstore_Sales_Analysis/assets/99657888/e3a19eab-cdcc-4772-8fcf-62dcd73ee272)
+
+
 
 These challenges were overcome through collaboration, research, and iterative development. Documenting these obstacles and solutions here will help future contributors and developers understand the project's history and complexities.
 
