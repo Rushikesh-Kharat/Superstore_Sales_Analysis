@@ -2,13 +2,9 @@
 
 ### **INTRODUCTION**
 
-<br />  
-
-![image](https://github.com/Rushikesh-Kharat/Superstore_Sales_Analysis/assets/99657888/a26237de-c06c-4bb7-936f-2ece0614747c) 
-
-<br />  
-
 #### The Objective of this project is to contribute to the success of a Superstore sales business by utilizing data analysis techniques, specifically focusing on time series analysis, to provide valuable insights and accurate sales forecasting.The objective can be broken down into the following detailed components:  
+
+![image](https://github.com/Rushikesh-Kharat/Superstore_Sales_Analysis/assets/99657888/d93ee8e0-608a-46bd-8ec1-e34190900aab)
 
 - **Dashboard Creation**: Identify the KPIs, design an intuitive and visually appealing dashboard, add interactive visualizations and filtering capabilities to allow users to explore the data at various levels of granularity 
 
