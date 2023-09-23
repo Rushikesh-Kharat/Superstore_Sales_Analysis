@@ -71,15 +71,7 @@
 
 ### **CHALLENGES FACED AND MEASURES TAKEN**
 
-1. **Data Cleaning**
 
-Cleaning the data was an essential step to ensure the accuracy and reliability of the final dataset. Some of the challenges encountered in data cleaning were:
-
-- **Missing Values**: Dealing with missing values and deciding on appropriate imputation methods.
-
-- **Inconsistent Data**: Handling inconsistencies and errors in the data, such as typos and formatting issues.
-
-- **Visualization Design**: Designing visually appealing and informative dashboards requires careful consideration. Choosing the right charts, graphs, and visuals to represent your sales data effectively can be a challenge.
   
 ![image](https://github.com/Rushikesh-Kharat/Superstore_Sales_Analysis/assets/99657888/e3a19eab-cdcc-4772-8fcf-62dcd73ee272)
 
