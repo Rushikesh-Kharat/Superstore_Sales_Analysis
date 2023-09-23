@@ -69,6 +69,14 @@
 
 ![image](https://github.com/Rushikesh-Kharat/Superstore_Sales_Analysis/assets/99657888/a252f0e3-64f8-4dee-abd9-387a5dd2610e)
 
+Confidence highbound and confidence lowbound are terms used in forecasting to represent the range within which the forecasted values are expected to fall. 
+
+In the context of forecasting sales for 15 days, the confidence highbound refers to the upper limit or maximum value of the forecasted sales. It represents the highest possible sales figure that can be expected within the given forecast period.
+
+On the other hand, the confidence lowbound refers to the lower limit or minimum value of the forecasted sales. It represents the lowest possible sales figure that can be expected within the given forecast period.
+
+Together, the confidence highbound and confidence lowbound define a range within which the actual sales values are likely to fall. This range provides an estimate of the uncertainty associated with the forecasted sales and helps in assessing the reliability of the forecast.
+
 <br />
   
 ### **CONCLUSION**
