@@ -3,7 +3,9 @@
 ### **INTRODUCTION**
 
 <br />  
-![image](https://github.com/Rushikesh-Kharat/Superstore_Sales_Analysis/assets/99657888/a26237de-c06c-4bb7-936f-2ece0614747c)  
+
+![image](https://github.com/Rushikesh-Kharat/Superstore_Sales_Analysis/assets/99657888/a26237de-c06c-4bb7-936f-2ece0614747c) 
+
 <br />  
 
 #### The Objective of this project is to contribute to the success of a Superstore sales business by utilizing data analysis techniques, specifically focusing on time series analysis, to provide valuable insights and accurate sales forecasting.The objective can be broken down into the following detailed components:  
